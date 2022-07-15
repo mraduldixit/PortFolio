@@ -1,63 +1,57 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "imagebaseurl":"https://github.com/mraduldixit/",
+    "name": "Mradul Dixit",
+    "role": "Frontend Developer and Competitive Coder",
+    "linkedinId":"https://www.linkedin.com/in/mradul-dixit-144b621b2/",
+    "skypeid": "https://twitter.com/Mraduldixit111",
+    "roleDescription": "",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/mradul-dixit-144b621b2/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/mraduldixit/",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"https://twitter.com/Mraduldixit111",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am currently a final year student at Institute of Engineering and Technology, Lucknow and pursuing my Bachelors in Information Technology. I am a Competitive Coder and an enthusiast Web developer with knowledge of technology like HTML, CSS, JavaScript, React.js, Node.js.",
+    "address":"Email : mraduldixit2002@gmail.com",
+    "website":"Phone no : (+91) 8979907283",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Institute of Engineering and Technology, Lucknow",
+        "specialization":"Information Technology",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2023",
+        "Achievements":"CGPA : 7.3"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
+        "UniversityName":"Shri Gopal Inter College, Auraiya",
+        "specialization":"PCM",
+        "MonthOfPassing":"Apr",
         "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":"Percentage : 86%"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
+        "CompanyName":"SoftPro India",
+        "specialization":"C, C++, Python, Java",
         "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "YearOfLeaving":"2020",
+        "Achievements":""
       }
+
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"",
     "skills":[
       {
         "skillname":"HTML5"
@@ -66,39 +60,41 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"JAVASCRIPT"
+      },
+      {
+        "skillname":"REACTJS"
+      },
+      {
+        "skillname":"NODEJS"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Weather Application",
+        "description":"Web Application",
+        "imgurl":"images/portfolio/weather-app.jpg"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Playing Pogo",
+        "description":"Web Game",
+        "imgurl":"images/portfolio/pogo-game.jpg"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Chrome Extension",
+        "description":"Web Application",
+        "imgurl":"images/portfolio/chrome-extension.jpg"
       }
+      
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"I am 4 star at codechef.",
+        "name":""
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"I have done 600+ Questions on various coding platforms.",
+        "name":""
       }
     ]
   }
