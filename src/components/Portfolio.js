@@ -23,7 +23,7 @@ export default class Porfolio extends Component {
                       </div>
                     </a>
                   </div>
-                </div>
+                  </div>
               )
             })
           }

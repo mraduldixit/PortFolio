@@ -73,17 +73,26 @@ let resumeData = {
       {
         "name":"Weather Application",
         "description":"Web Application",
-        "imgurl":"images/portfolio/weather-app.jpg"
+        "imgurl":"images/portfolio/weather-app.jpg",
+        "projectlink":"https://know-weather-mraduldixit.vercel.app/"
       },
       {
         "name":"Playing Pogo",
         "description":"Web Game",
-        "imgurl":"images/portfolio/pogo-game.jpg"
+        "imgurl":"images/portfolio/pogo-game.jpg",
+        "projectlink":"https://mradul-dixit.vercel.app/"
       },
       {
         "name":"Chrome Extension",
         "description":"Web Application",
-        "imgurl":"images/portfolio/chrome-extension.jpg"
+        "imgurl":"images/portfolio/chrome-extension.jpg",
+        "projectlink":"https://github.com/mraduldixit"
+      },
+      {
+        "name":"Portfolio",
+        "description":"Web Application",
+        "imgurl":"images/portfolio/portfolio.jpg",
+        "projectlink":"https://github.com/mraduldixit"
       }
       
     ],
