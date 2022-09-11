@@ -336,27 +336,27 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: illustrator 2s ease;
 }
 .javascript{
-   width: 60%;
+   width: 70%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
 .nodejs{
-   width:70%;
+   width:60%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
 .reactjs{
-   width: 50%;
+   width: 70%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
 .css {
-  	width: 90%;
+  	width: 80%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
 .html5 {
-  	width: 80%;
+  	width: 85%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
