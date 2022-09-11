@@ -23,8 +23,7 @@ let resumeData = {
         }
       ],
     "aboutme":"I am currently a final year student at Institute of Engineering and Technology, Lucknow and pursuing my Bachelors in Mechanical Engineering. I am a Competitive Coder and an enthusiast Web developer with knowledge of technology like HTML, CSS, JavaScript, React.js, Node.js.",
-    "address":"Email : mraduldixit2002@gmail.com",
-    "website":"Phone no : (+91) 8979907283",
+    "website":"Phone no : (+91) 7023347772",
     "education":[
       {
         "UniversityName":"Institute of Engineering and Technology, Lucknow",
