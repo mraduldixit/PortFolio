@@ -1,50 +1,50 @@
 let resumeData = {
-    "imagebaseurl":"https://github.com/mraduldixit/",
-    "name": "Mradul Dixit",
+    "imagebaseurl":"http://github.com/patelsudhir/",
+    "name": "Sudhir Patel",
     "role": "Frontend Developer and Competitive Coder",
-    "linkedinId":"https://www.linkedin.com/in/mradul-dixit-144b621b2/",
-    "skypeid": "https://twitter.com/Mraduldixit111",
+    "linkedinId":"http://www.linkedin.com/in/sudhir-patel-430b75202/",
+    "skypeid": "http://github.com/patelsudhir",
     "roleDescription": "",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/mradul-dixit-144b621b2/",
+          "url":"http://www.linkedin.com/in/sudhir-patel-430b75202/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"https://github.com/mraduldixit/",
+          "url":"http://github.com/patelsudhir/",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"https://twitter.com/Mraduldixit111",
+          "url":"https://twitter.com/Sudhir_patel07",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a final year student at Institute of Engineering and Technology, Lucknow and pursuing my Bachelors in Information Technology. I am a Competitive Coder and an enthusiast Web developer with knowledge of technology like HTML, CSS, JavaScript, React.js, Node.js.",
+    "aboutme":"I am currently a final year student at Institute of Engineering and Technology, Lucknow and pursuing my Bachelors in Mechanical Engineering. I am a Competitive Coder and an enthusiast Web developer with knowledge of technology like HTML, CSS, JavaScript, React.js, Node.js.",
     "address":"Email : mraduldixit2002@gmail.com",
     "website":"Phone no : (+91) 8979907283",
     "education":[
       {
         "UniversityName":"Institute of Engineering and Technology, Lucknow",
-        "specialization":"Information Technology",
+        "specialization":"Mechanical Engineering",
         "MonthOfPassing":"May",
         "YearOfPassing":"2023",
-        "Achievements":"CGPA : 7.3"
+        "Achievements":"CGPA : 8.3"
       },
       {
-        "UniversityName":"Shri Gopal Inter College, Auraiya",
+        "UniversityName":"Indra K S iNTER College",
         "specialization":"PCM",
         "MonthOfPassing":"Apr",
         "YearOfPassing":"2018",
-        "Achievements":"Percentage : 86%"
+        "Achievements":"Percentage : 85%"
       }
     ],
     "work":[
       {
         "CompanyName":"SoftPro India",
-        "specialization":"C, C++, Python, Java",
+        "specialization":"C, C++, Python, Matlab, Autocad",
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2020",
         "Achievements":""
@@ -64,18 +64,10 @@ let resumeData = {
       },
       {
         "skillname":"REACTJS"
-      },
-      {
-        "skillname":"NODEJS"
       }
+      
     ],
     "portfolio":[
-      {
-        "name":"Weather Application",
-        "description":"Web Application",
-        "imgurl":"images/portfolio/weather-app.jpg",
-        "projectlink":"https://know-weather-mraduldixit.vercel.app/"
-      },
       {
         "name":"Playing Pogo",
         "description":"Web Game",
@@ -87,22 +79,16 @@ let resumeData = {
         "description":"Web Application",
         "imgurl":"images/portfolio/chrome-extension.jpg",
         "projectlink":"https://github.com/mraduldixit"
-      },
-      {
-        "name":"Portfolio",
-        "description":"Web Application",
-        "imgurl":"images/portfolio/portfolio.jpg",
-        "projectlink":"https://github.com/mraduldixit"
       }
       
     ],
     "testimonials":[
       {
-        "description":"I am 4 star at codechef.",
+        "description":"I am 3 star at codechef.",
         "name":""
       },
       {
-        "description":"I have done 600+ Questions on various coding platforms.",
+        "description":"I have done 200+ Questions on various coding platforms.",
         "name":""
       }
     ]
